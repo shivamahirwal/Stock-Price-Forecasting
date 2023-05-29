@@ -6,4 +6,4 @@ To accomplish this, datetime features were generated and plotted, providing valu
 
 The first forecast, covering 2016 to 2018, yielded a Mean Absolute Percentage Error (MAPE) of 15%, showcasing the model's accuracy in capturing the stock's behavior during this period. However, the second forecast, encompassing 2019 to 2020, resulted in a higher MAPE of 57%, indicating the affect of COVID-19 pandemic in accurately predicting the stock's performance during this timeframe.
 
-By sharing this analysis, we aim to provide valuable insights into the ZEEL stock and contribute to the understanding of its historical behavior and forecasting potential.
+By sharing this analysis, I aim to provide valuable insights into the ZEEL stock and contribute to the understanding of its historical behavior and forecasting potential.
